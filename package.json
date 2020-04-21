@@ -1,8 +1,8 @@
 {
-  "name": "language-coursescript",
-  "version": "3.25.4",
+  "name": "language-coursescript-sprout",
+  "version": "0.0.0",
   "description": "Syntax highlighting and snippets for CourseScript.",
-  "repository": "https://github.com/lenage/language-coursescript",
+  "repository": "https://github.com/Alexis374/language-coursescript",
   "license": "MIT",
   "engines": {
     "atom": "*"
